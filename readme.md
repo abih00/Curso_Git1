@@ -1,2 +1,3 @@
-3Aprendendo usar o Git
+Aprendendo usar o Git
+
 ##Aula 1
